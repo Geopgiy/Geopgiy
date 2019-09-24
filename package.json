@@ -1,0 +1,14 @@
+{
+  "name": "nstu",
+  "version": "1.0.0",
+  "description": "cources for FMA students",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon -q main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
